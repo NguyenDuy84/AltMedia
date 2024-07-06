@@ -1,0 +1,122 @@
+/**/_xdc_._j8q7pl && _xdc_._j8q7pl( {
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "775",
+               "short_name" : "775",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "New York Avenue",
+               "short_name" : "New York Ave",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Little Caribbean",
+               "short_name" : "Little Caribbean",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11203",
+               "short_name" : "11203",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "775 New York Ave, Brooklyn, NY 11203, USA",
+         "geometry" : 
+         {
+            "bounds" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.6549972,
+                  "lng" : -73.9467521
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.6548674,
+                  "lng" : -73.94695779999999
+               }
+            },
+            "location" : 
+            {
+               "lat" : 40.6549323,
+               "lng" : -73.946855
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.6562812802915,
+                  "lng" : -73.9455793697085
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.6535833197085,
+                  "lng" : -73.9482773302915
+               }
+            }
+         },
+         "place_id" : "ChIJIRGoF2ZbwokR-rW9B0TFXJ0",
+         "types" : 
+         [
+            "premise"
+         ]
+      }
+   ],
+   "status" : "OK"
+} )
